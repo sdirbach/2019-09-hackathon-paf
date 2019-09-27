@@ -2,6 +2,7 @@
 ## AirC 4.0
 
 *Hardware*
+
 | Name | Description |
 | --- | --- |
 | Arduino Uno | Erfassung Sensor Werte & Weiterleitung an Heltec LoRa 32 |
@@ -10,6 +11,7 @@
 | Heltec LoRa 32 | Weiterleitung Sensor Werte per LoRa |
 
 *Sensor Payload*
+
 | ID | Sensor | Einheit | Werte-Bereich |
 | --- | --- | --- | --- |
 | 0x00 | Temperatur | °C | 0-100 | 
